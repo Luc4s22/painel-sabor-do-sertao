@@ -24,6 +24,6 @@ O painel usa o CSV local automaticamente; também é possível enviar outro pela
 
 ## Print do painel
 
-![Painel]("C:\Users\e_srms\Pictures\Screenshots\Captura de tela 2026-10-05 144552.png")
+![Painel](print_painel.png)
 
 > Dupla: _(Lucas Mendes e Wendell Barboza)_
