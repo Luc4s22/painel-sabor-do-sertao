@@ -7,7 +7,7 @@ Sabor do Sertão (Recife, Olinda, Caruaru, Petrolina e Garanhuns).
 
 ```bash
 pip install -r requirements.txt
-python gerar_dados.py        # gera vendas_sabor_do_sertao.csv
+python gerar_dados.py        
 streamlit run app.py
 ```
 
