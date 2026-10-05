@@ -24,7 +24,7 @@ O painel usa o CSV local automaticamente; também é possível enviar outro pela
 
 ## Print do painel
 
-![Painel](<img width="1905" height="888" alt="print_painel" src="https://github.com/user-attachments/assets/88ccb847-f76c-4b6c-b361-6580c875c65f" />
-)
+<img width="1905" height="888" alt="print_painel" src="https://github.com/user-attachments/assets/5b72d6fe-dcc1-4473-88de-0ce2bbf7f8c9" />
+
 
 Dupla: Lucas Mendes e Wendell barboza
